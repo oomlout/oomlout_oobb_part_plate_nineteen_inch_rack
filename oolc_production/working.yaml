@@ -1,0 +1,6 @@
+project_id: oomlout_oobb_part_plate_nineteen_inch_rack
+project_name: Oomlout Oobb Part Plate Nineteen Inch Rack
+project_repo: https://github.com/oomlout/oomlout_oobb_part_plate_nineteen_inch_rack
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
